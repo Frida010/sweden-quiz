@@ -39,7 +39,7 @@ const questions = [
         ]
     },
     {
-        question: "What is the coldest temperature ever recored in Sweden?",
+        question: "What is the coldest temperature ever recorded in Sweden?",
         answers: [
             { text: "-56,6 Celsius", correct: false },
             { text: "-42,6 Celsius ", correct: false },
@@ -70,3 +70,36 @@ let currentQuestionIndex = 0;
 let score = 0;
 
 // Reset the current question index and score
+
+function startQuiz() {
+    currentQuestionIndex = 0;
+    score = 0;
+    nextButton.innerHTML = 'Next';
+    showQuestion();
+}
+
+
+function showQuestion() {
+    resetState();
+    let currentQuestion = questions[currentQuestionIndex];
+    let questionNo = currentQuestionIndex + 1;
+    questionElement.innerHTML = questionNo + ". " + currentQuestion.question;
+
+    currentQuestion.answers.forEach(answer => {
+        const button = document.createElement("button");
+        button.innerHTML = answer.text;
+        button.classList.add("btn");
+        answerButtons.appendChild(button);
+        if (answer.correct) {
+            button.dataset.correct = answer.correct;
+        }
+        button.addEventListener("click", selectAnswer);
+    });
+}
+
+function resetState() {
+    nextButton.style.display = "none";
+    while (answerButtons.firstChild) {
+        answerButtons.removeChild(answerButtons.firstChild);
+    }
+}
