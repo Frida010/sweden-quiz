@@ -78,6 +78,7 @@ function startQuiz() {
     showQuestion();
 }
 
+// Dispalys the question and answers inside the buttons. 
 
 function showQuestion() {
     resetState();
@@ -85,15 +86,11 @@ function showQuestion() {
     let questionNo = currentQuestionIndex + 1;
     questionElement.innerHTML = questionNo + ". " + currentQuestion.question;
 
-    currentQuestion.answers.forEach(answer => {
+    currentQuestionIndex.answers.forEach(answer => {
         const button = document.createElement("button");
         button.innerHTML = answer.text;
         button.classList.add("btn");
-        answerButtons.appendChild(button);
-        if (answer.correct) {
-            button.dataset.correct = answer.correct;
-        }
-        button.addEventListener("click", selectAnswer);
+        answserButtons.appendChild(button);
     });
 }
 
@@ -103,3 +100,5 @@ function resetState() {
         answerButtons.removeChild(answerButtons.firstChild);
     }
 }
+
+startQuiz();
