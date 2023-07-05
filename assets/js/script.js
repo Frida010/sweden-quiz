@@ -1,4 +1,4 @@
-// Questions and answers
+// Questions and answers for game area
 
 const questions = [
 
@@ -50,11 +50,23 @@ const questions = [
     {
         question: "How many lakes are there in Sweden? (circa)",
         answers: [
-            { text: "15 000", correct: false },
-            { text: "70 000", correct: false },
+            { text: "1 000", correct: false },
+            { text: "10 000", correct: false },
             { text: "100 000", correct: true },
-            { text: "5000", correct: false },
+            { text: "1 000 000", correct: false },
         ]
     }
 
 ];
+
+// Variables for game area
+
+const questionElement = document.getElementById('question');
+const answerButtons = document.getElementById('answer-buttons');
+const nextButton = document.getElementById('next-btn');
+
+
+let currentQuestionIndex = 0;
+let score = 0;
+
+// Reset the current question index and score
