@@ -10,3 +10,14 @@
 body {
     background: #006aa8;
 }
+
+/*  header, background and text */
+
+.header-background {
+    display: block;
+    height: 150px;
+    position: relative;
+    background-color: #fdcc00;
+}
+
+.header-text {}
