@@ -62,7 +62,7 @@ body {
 .btn {
     background: #fff;
     color: #333;
-    font-size: 14px;
+    font-size: 16px;
     width: 100%;
     border: 1.8px solid #006aa8;
     padding: 10px;
@@ -101,4 +101,35 @@ body {
 
 .incorrect {
     background: #fc6449;
+}
+
+/*  Footer and social media icons */
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 15%;
+    background-color: #fdcc00;
+    color: #333;
+    text-align: center;
+    font-size: 100%;
+}
+
+.s-media-icons {
+    text-align: center;
+}
+
+.s-media-icons>li {
+    display: inline;
+}
+
+.s-media-icons i {
+    font-size: 130%;
+    margin: 2%;
+    color: #333;
+}
+
+#s-media {
+    padding: 10px;
 }
