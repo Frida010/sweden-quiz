@@ -127,10 +127,25 @@ function selectAnswer(e) {
     nextButton.style.display = "block";
 }
 
+// Show score function
+
+function showScore() {
+    resetState();
+    questionElement.innerHTML = `You scored ${score} out of ${questions.length} !`;
+    nextButton.innerHTML = "Play Again";
+    nextButton.style.display = "block";
+}
 
 // Next-button function
 
-
+function handleNextButton() {
+    currentQuestionIndex++;
+    if (currentQuestionIndex < questions.length) {
+        showQuestion();
+    } else {
+        showScore();
+    }
+}
 
 nextButton.addEventListener("click", () => {
     if (currentQuestionIndex < questions.length) {
@@ -139,7 +154,5 @@ nextButton.addEventListener("click", () => {
         startQuiz();
     }
 });
-
-
 
 startQuiz();
