@@ -128,5 +128,18 @@ function selectAnswer(e) {
 }
 
 
+// Next-button function
+
+
+
+nextButton.addEventListener("click", () => {
+    if (currentQuestionIndex < questions.length) {
+        handleNextButton();
+    } else {
+        startQuiz();
+    }
+});
+
+
 
 startQuiz();
