@@ -96,11 +96,11 @@ body {
 }
 
 .correct {
-    background: #2cfa93;
+    background: #5ffcad;
 }
 
 .incorrect {
-    background: #fc6449;
+    background: rgb(255, 121, 97);
 }
 
 /*  Footer and social media icons */
