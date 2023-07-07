@@ -10,6 +10,20 @@ The website contains a header and a footer. The footer contains icons whit links
 
 ## Features
 
+#### - Header
+
+- Featured at the top at the page is the header. The header does not have any features it does only displayes the name, and that makes it clear for the user what game they are playing.
+
+- I think the header creates a nice contrast on this game's website and that why I choose to make it. 
+
+#### - The Quiz
+
+- The quiz has a yellow border that frames the quiz area.
+- The quiz area has one question and four options for the user to choose from.
+- The buttons have a hover effect that lights up the button the user hovers over. 
+- When the user has made a decision the button whit the 
+
+
 ## Footer section
 
 - The footer contains clickable social media links for the user to find the company on facebook and instagram.
@@ -51,7 +65,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 - From the source section drop-down menu, select the Master Branch
 - Once the master branch has been selected, the page provided the link to the completed website.
 
-The live link can be found here -
+The live link can be found here - 
 
 ## Credits
 
@@ -67,4 +81,4 @@ The live link can be found here -
 
 - The icons in the footer were taken from [Font awesome](https://fontawesome.com/).
 - The favicon in the browser were taken from [Favicons](https://favicon.io/).
--
+- 
