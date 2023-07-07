@@ -1,8 +1,8 @@
 # Sweden Quiz
 
-The Sweden Quiz website is a game page and all questions are about Sweden.
+The Sweden Quiz is a quiz game and all questions are all about Sweden. The quiz tests your knowledge about the land in the far north. The questions are funny and medium hard. 
 
-Users of this website will be able to play a quiz game about Sweden and at the end of the game the user will get a score of how many points the player got in total.
+Users of this website will be able to play a quiz game about Sweden and at the end of the game the user will get a score of how many points the person got in total.
 
 The website contains a header and a footer. The footer contains icons whit links to social media.
 
@@ -13,7 +13,6 @@ The website contains a header and a footer. The footer contains icons whit links
 #### - Header
 
 - Featured at the top at the page is the header. The header does not have any features it does only displayes the name, and that makes it clear for the user what game they are playing.
-
 - I think the header creates a nice contrast on this game's website and that why I choose to make it.
 
 #### - The Quiz
@@ -26,11 +25,16 @@ The website contains a header and a footer. The footer contains icons whit links
 - When the quiz is over and all questions is answerd, the user will get a message saying "You scored ... out of 6!" 
 - On this last page the button will also have changed and have a text saying "Play Again" and now the user can make the choise to play again.  
 
-## Footer section
+#### - Footer section
 
 - The footer contains clickable social media links for the user to find the company on facebook and instagram.
+- The footer also contains the text "Share your results whit us on social media!" to invite the user to interact.
 
 ![Screenshot of the footer section with social media links]()
+
+### Features left to implement
+
+- In the future I would like to expand this game and make more questions and levels.
 
 ## Testing
 
@@ -44,15 +48,17 @@ The website contains a header and a footer. The footer contains icons whit links
 
 ### Bugs
 
+- 
+
 ### Validator Testing
 
-#### HTML
+##### - HTML
+- 
 
-- After that no errors were found by the official [W3C validator]().
+##### - CSS
 
-#### CSS
+##### - JAVASCRIPT
 
-- [(Jigsaw) validator]().
 
 #### Accessibility
 
@@ -88,4 +94,4 @@ The live link can be found here -
 
 - The icons in the footer were taken from [Font awesome](https://fontawesome.com/).
 - The favicon in the browser were taken from [Favicons](https://favicon.io/).
--
+- 
