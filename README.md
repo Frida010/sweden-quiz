@@ -1,8 +1,8 @@
 # Sweden Quiz
 
-The Sweden Quiz is a quiz game and all questions are all about Sweden. The quiz tests your knowledge about the land in the far north. The questions are funny and have unusual twists.
+The Sweden Quiz is a website were you can play a quiz game and all the questions are about Sweden. The quiz tests your knowledge about the land in the far north. The questions are funny. 
 
-Users of this website will be able to play a quiz game about Sweden and at the end of the game the user will get a score of how many points the person got in total.
+At the end of the game the user will get a score of how many points the person got in total.
 
 The website contains a header and a footer. The footer contains icons whit links to social media.
 
@@ -61,9 +61,12 @@ The website contains a header and a footer. The footer contains icons whit links
 
 - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
 
+![Screenshot of the lighthouse](https://user-images.githubusercontent.com/129947589/252158871-99c3b03f-dcbe-432f-b940-87e3880b25ee.png)
+
+
 ### Bugs
 
--
+- One bug that I have discoverd when working on this project is that the favicon.ico does not work after my deployment of this website. 
 
 ### Validator Testing
 
