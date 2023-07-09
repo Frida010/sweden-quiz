@@ -69,7 +69,7 @@ const nextButton = document.getElementById('next-btn');
 let currentQuestionIndex = 0;
 let score = 0;
 
-// Reset the current question index and score
+// Resets the current question index
 
 function startQuiz() {
     currentQuestionIndex = 0;
@@ -127,15 +127,6 @@ function selectAnswer(e) {
     nextButton.style.display = "block";
 }
 
-// Show score function
-
-function showScore() {
-    resetState();
-    questionElement.innerHTML = `You scored ${score} out of ${questions.length} !`;
-    nextButton.innerHTML = "Play Again";
-    nextButton.style.display = "block";
-}
-
 // Next-button function
 
 function handleNextButton() {
@@ -156,3 +147,13 @@ nextButton.addEventListener("click", () => {
 });
 
 startQuiz();
+
+// Show score function
+
+function showScore() {
+    resetState();
+    questionElement.innerHTML = `You scored ${score} out of 6 !`;
+    nextButton.innerHTML = "Play Again";
+    nextButton.style.display = "block";
+}
+

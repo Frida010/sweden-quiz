@@ -68,12 +68,18 @@ The website contains a header and a footer. The footer contains icons whit links
 ### Validator Testing
 
 ##### - HTML
-
--
+- No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrida010.github.io%2Fsweden-quiz%2F). 
 
 ##### - CSS
+- No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffrida010.github.io%2Fsweden-quiz%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
 ##### - JAVASCRIPT
+- No errors were found when passing through the official [Jshint validator](https://jshint.com/), however I got some warnings. 
+    - The following metrics were returned:
+    - There are 9 functions in this file.
+    - Function with the largest signature take 1 arguments, while the median is 0.
+    - Largest function has 8 statements in it, while the median is 4.
+    - The most complex function has a cyclomatic complexity value of 2 while the median is 2.
 
 #### Accessibility
 
@@ -104,10 +110,14 @@ The live link can be found here - [Sweden Quiz]()
 - Used [W3Schools](https://www.w3schools.com/js/js_if_else.asp) and their JavaScript if, else, and else if lesson to remind me of how to write that code.
 - Reminder of how to make JavaScript Array forEach() I looked on [W3Schools](https://www.w3schools.com/jsref/jsref_foreach.asp).
 - I used [W3Schools](https://www.w3schools.com/js/js_functions.asp) to help me whit JavaScript Functions.
+- In the proccess of making this game I used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:509fe98a,vid:p-2G-7vLuV4) as help. 
+- I also used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:370e1017,vid:riDzcEQbX6k) as help with the javascript code writing. 
+- This [Youtube video](https://www.google.com/search?tbm=vid&sxsrf=AB5stBjTtUIe6RI35kW0u5fJm4xOxrAa2w:1688912106572&q=how+to+make+a+quiz+in+javascript&sa=X&sqi=2&ved=2ahUKEwi_5Kzx54GAAxXzEBAIHU1JDuEQ8ccDegQIDBAH&biw=1920&bih=963&dpr=1#fpstate=ive&vld=cid:d0491b53,vid:PBcqGxrr9g8) was an big inspiration in the making of this job. 
+
 
 ### Media
 
 - The icons in the footer were taken from [Font awesome](https://fontawesome.com/).
 - The favicon in the browser were taken from [Favicons](https://favicon.io/).
 - The quiz questions were inspiried and/or borrowed from [Swedish Nomad](https://www.swedishnomad.com/sweden-quiz/).
-- 
+
