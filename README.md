@@ -25,12 +25,19 @@ The website contains a header and a footer. The footer contains icons whit links
 - The quiz has a yellow border that frames the quiz area.
 - The quiz area has one question and four options for the user to choose from.
 - The buttons have a hover effect that lights up the button the user hovers over.
+
+![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252147500-23809c80-7384-4f79-a490-3ee7ea6d7cde.png)
+![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252147717-904200ea-3517-45c3-93dc-6ebc2060b23d.png)
+
 - When the user has made a decision the button with the rigth answer will light up in a green color and the wrong answer in a red color.
 - When a choise is made, a button whit the text "Next" will appear for the user to click on and get to the next question.
+
+![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252146966-0c20ef5a-54fa-47c4-83a7-d59f91841612.png)
+
 - When the quiz is over and all questions is answerd, the user will get a message saying "You scored ... out of 6!"
 - On this last page the button will also have changed and have a text saying "Play Again" and now the user can make the choise to play again.
 
-![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252145979-1090bd42-ff50-409b-864d-e5f0de34c42a.png)
+![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252146972-0e1ddb8f-0907-4304-80a7-6d33a7df5469.png)
 
 
 #### - Footer section
@@ -42,7 +49,7 @@ The website contains a header and a footer. The footer contains icons whit links
 
 ### Features left to implement
 
-- In the future I would like to expand this game and make more questions and levels.
+- In the future I would like to expand this game and make more questions and levels with different levels of difficulty.
 
 ## Testing
 
@@ -86,7 +93,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 - From the source section drop-down menu, select the Master Branch
 - Once the master branch has been selected, the page provided the link to the completed website.
 
-The live link can be found here -
+The live link can be found here - [Sweden Quiz]()
 
 ## Credits
 
@@ -102,4 +109,5 @@ The live link can be found here -
 
 - The icons in the footer were taken from [Font awesome](https://fontawesome.com/).
 - The favicon in the browser were taken from [Favicons](https://favicon.io/).
--
+- The quiz questions were inspiried and/or borrowed from [Swedish Nomad](https://www.swedishnomad.com/sweden-quiz/).
+- 
