@@ -152,7 +152,7 @@ startQuiz();
 
 function showScore() {
     resetState();
-    questionElement.innerHTML = `You scored ${score} out of 6 !`;
+    questionElement.innerHTML = `You scored ${score} out of 6!`;
     nextButton.innerHTML = "Play Again";
     nextButton.style.display = "block";
 }
