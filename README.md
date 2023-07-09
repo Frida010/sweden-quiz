@@ -1,19 +1,24 @@
 # Sweden Quiz
 
-The Sweden Quiz is a quiz game and all questions are all about Sweden. The quiz tests your knowledge about the land in the far north. The questions are funny and medium hard. 
+The Sweden Quiz is a quiz game and all questions are all about Sweden. The quiz tests your knowledge about the land in the far north. The questions are funny and have unusual twists.
 
 Users of this website will be able to play a quiz game about Sweden and at the end of the game the user will get a score of how many points the person got in total.
 
 The website contains a header and a footer. The footer contains icons whit links to social media.
 
-![Screenshot of the website on diffrent screen sizes]()
+![Screenshot of the website on diffrent screen sizes](https://user-images.githubusercontent.com/129947589/252144648-386179a1-d4a8-4119-ba60-9e7c219d58f9.png)
 
 ## Features
+
 
 #### - Header
 
 - Featured at the top at the page is the header. The header does not have any features it does only displayes the name, and that makes it clear for the user what game they are playing.
 - I think the header creates a nice contrast on this game's website and that why I choose to make it.
+- The font have a playful look and fits the caracter of the website well.
+
+![Screenshot of the header](https://user-images.githubusercontent.com/129947589/252145967-07884fe6-553e-4868-93bb-86e9cd70cbd6.png)
+
 
 #### - The Quiz
 
@@ -21,16 +26,19 @@ The website contains a header and a footer. The footer contains icons whit links
 - The quiz area has one question and four options for the user to choose from.
 - The buttons have a hover effect that lights up the button the user hovers over.
 - When the user has made a decision the button with the rigth answer will light up in a green color and the wrong answer in a red color.
-- When a choise is made, a button whit the text "Next" will appear for the user to click on and get to the next question. 
-- When the quiz is over and all questions is answerd, the user will get a message saying "You scored ... out of 6!" 
-- On this last page the button will also have changed and have a text saying "Play Again" and now the user can make the choise to play again.  
+- When a choise is made, a button whit the text "Next" will appear for the user to click on and get to the next question.
+- When the quiz is over and all questions is answerd, the user will get a message saying "You scored ... out of 6!"
+- On this last page the button will also have changed and have a text saying "Play Again" and now the user can make the choise to play again.
+
+![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252145979-1090bd42-ff50-409b-864d-e5f0de34c42a.png)
+
 
 #### - Footer section
 
 - The footer contains clickable social media links for the user to find the company on facebook and instagram.
 - The footer also contains the text "Share your results whit us on social media!" to invite the user to interact.
 
-![Screenshot of the footer section with social media links]()
+![Screenshot of the footer with social media links](https://user-images.githubusercontent.com/129947589/252145988-2b72ba82-3d15-411d-8e0d-7be45dd6210a.png)
 
 ### Features left to implement
 
@@ -42,23 +50,23 @@ The website contains a header and a footer. The footer contains icons whit links
 
 - I confirmed that this website looks good on different screen sizes using the devtools device toolbar.
 
-- I confirmed thet the header, options, results and footer text are all readable and easy to understand. 
+- I confirmed that the header, options, results and footer text are all readable and easy to understand.
 
-- I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools. 
+- I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
 
 ### Bugs
 
-- 
+-
 
 ### Validator Testing
 
 ##### - HTML
-- 
+
+-
 
 ##### - CSS
 
 ##### - JAVASCRIPT
-
 
 #### Accessibility
 
@@ -94,4 +102,4 @@ The live link can be found here -
 
 - The icons in the footer were taken from [Font awesome](https://fontawesome.com/).
 - The favicon in the browser were taken from [Favicons](https://favicon.io/).
-- 
+-
