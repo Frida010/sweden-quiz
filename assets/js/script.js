@@ -41,9 +41,9 @@ const questions = [
     {
         question: "What is the coldest temperature ever recorded in Sweden?",
         answers: [
-            { text: "-56,6 Celsius", correct: false },
-            { text: "-42,6 Celsius ", correct: false },
-            { text: "-46,6 Celsius ", correct: false },
+            { text: "-26,6 Celsius", correct: false },
+            { text: "-37,6 Celsius ", correct: false },
+            { text: "-61,6 Celsius ", correct: false },
             { text: "-52,6 Celsius", correct: true },
         ]
     },
