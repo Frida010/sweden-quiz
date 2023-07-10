@@ -78,7 +78,7 @@ function startQuiz() {
     showQuestion();
 }
 
-// Dispalys the question and answers inside the buttons. 
+// Dispalys question and answers inside the buttons. 
 
 function showQuestion() {
     resetState();
