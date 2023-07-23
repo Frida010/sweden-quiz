@@ -62,15 +62,16 @@ The website contains a header and a footer. The footer contains icons whit links
 
 ### Bugs
 
-- One bug that I have discoverd when working on this project is that the favicon.ico did not work after my deployment of this website. But then the day after the deployment it worked for some reason whitout me doing anything. 
-- One other problem that I discoverd is that codeanywhere gives me this problem message in my css file. 
-![Screenshot of the problem message in codeanywhere](https://user-images.githubusercontent.com/129947589/252320956-c30b8393-6bf5-435f-a4a0-dc3f0898af77.png)
+- One bug that I have discoverd when working on this project is that the favicon.ico did not work after my deployment of this website. But then the day after the deployment it worked for some reason whitout me doing anything.
+- One other problem that I discoverd is that codeanywhere gives me this problem message in my css file.
+  ![Screenshot of the problem message in codeanywhere](https://user-images.githubusercontent.com/129947589/252320956-c30b8393-6bf5-435f-a4a0-dc3f0898af77.png)
 
 ### Validator Testing
 
 ##### - HTML
 
-- No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrida010.github.io%2Fsweden-quiz%2F).
+- One error that were found first when passing trouhgt the validator was that the favicon link were broken.
+- After fixing that and changing the format of the favicon link, no errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrida010.github.io%2Fsweden-quiz%2F).
 
 ##### - CSS
 
@@ -84,7 +85,6 @@ The website contains a header and a footer. The footer contains icons whit links
   - Function with the largest signature take 1 arguments, while the median is 0.
   - Largest function has 8 statements in it, while the median is 4.
   - The most complex function has a cyclomatic complexity value of 2 while the median is 2.
-
 
 ### Unfixed bugs
 
