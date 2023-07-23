@@ -104,6 +104,7 @@ The live link can be found here - [Sweden Quiz](https://frida010.github.io/swede
 
 ### Content
 
+- All the colors on this gamepage is taken from the swedish flag and identifyed by the [HTML color codes](https://html-color-codes.info/colors-from-image/).
 - In the proccess of making this webpage I have used [Code Institutes](https://codeinstitute.net/) videos and course material as help whit how to write some of the code.
 - I used [W3Schools](https://www.w3schools.com/jsref/jsref_foreach.asp) and their JavaScript Array forEach() lesson as help on that part of the code.
 - Used [W3Schools](https://www.w3schools.com/js/js_if_else.asp) and their JavaScript if, else, and else if lesson to remind me of how to write that code.

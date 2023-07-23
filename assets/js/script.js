@@ -23,7 +23,7 @@ const questions = [
     {
         question: "What is the currency of Sweden?",
         answers: [
-            { text: "Euro", correct: false },
+            { text: "Euro", correct: false }, 
             { text: "Swedish Pesos (SEP)", correct: false },
             { text: "Swedish kronor (SEK)", correct: true },
             { text: "Swedish Dollar (SED)", correct: false },
