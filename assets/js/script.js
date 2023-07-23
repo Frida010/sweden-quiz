@@ -25,7 +25,7 @@ const questions = [
         answers: [
             { text: "Euro", correct: false },
             { text: "Swedish Pesos (SEP)", correct: false },
-            { text: "Swedish Crowns (SEK)", correct: true },
+            { text: "Swedish kronor (SEK)", correct: true },
             { text: "Swedish Dollar (SED)", correct: false },
         ]
     },
