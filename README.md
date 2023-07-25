@@ -1,10 +1,10 @@
 # Sweden Quiz
 
-The Sweden Quiz is a game were you can play a quiz and learn more about Sweden. The quiz have six questions in total and have four answer options per question. The questions are fun and why not test your knowledge against friends? At the end of the game the user will get a score of how many points the person got in total and a choise to play again.
+The Sweden Quiz is a game were you can play a quiz and learn more about Sweden. The quiz has six questions in total and has four answer options per question. The questions are fun and why not test your knowledge against friends? At the end of the game the user will get a score of how many points the person got in total and a choice to play again.
 
 The Sweden Quiz game is targeted towards adults and children as a simple way to learn some fun facts about the land in the far north. 
 
-The website contains a header and a footer. The footer contains icons whit links to social media.
+The website contains a header and a footer. The footer contains icons with links to social media.
 
 ![Screenshot of the website on diffrent screen sizes](https://user-images.githubusercontent.com/129947589/252144648-386179a1-d4a8-4119-ba60-9e7c219d58f9.png)
 
@@ -12,35 +12,35 @@ The website contains a header and a footer. The footer contains icons whit links
 
 #### - Header
 
-- Featured at the top at the page is the header. The header does not have any features it does only display the name, and that makes it clear for the user what game they are playing.
-- The header creates a nice contrast on this game's website and creates a nice framing.
-- The font have a playful look and fits the caracter of the website well.
+- Featured at the top at the page is the header. The header does not have any features it does only displays the name which makes it more apparant for the user what game they are playing.
+- The header creates a nice contrast on the game's website and creates a nice framing.
+- The font has a playful look and fits the character of the website well.
 
 ![Screenshot of the header](https://user-images.githubusercontent.com/129947589/252145967-07884fe6-553e-4868-93bb-86e9cd70cbd6.png)
 
 #### - The Quiz
 
 - The quiz has a yellow border that frames the quiz area.
-- The quiz area have one question and four options for the user to choose from.
-- The buttons have a hover effect that lights up the button the user hovers over.
+- The quiz area has one question and four options for the user to choose from.
+- The buttons have a hover effect that lights up the button the mouse hovers over.
 
 ![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252147500-23809c80-7384-4f79-a490-3ee7ea6d7cde.png)
 ![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252147717-904200ea-3517-45c3-93dc-6ebc2060b23d.png)
 
-- When the user has made a decision the button with the rigth answer will light up in a green color and the wrong answer in a red color (if the user picked a wrong answer).
-- When a choise is made, a button whit the text "Next" will appear for the user to click on and get to the next question.
+- When the user has made a decision the button with the right answer will light up in a green color and the wrong answer in a red color (if the user picked the wrong answer).
+- When a choice is made, a button with the text "Next" will appear for the user to click on and get to the next question.
 
 ![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252146966-0c20ef5a-54fa-47c4-83a7-d59f91841612.png)
 
-- When the quiz is over and all questions is answerd, the user will get a message saying "You scored ... out of 6!"
-- On this last page the button will also have changed and have a text saying "Play Again" and now the user can make the choise to play again if wanted.
+- When the quiz is over and all the questions are answered, the user will get a message saying "You scored ... out of 6!"
+- On this last page the button will also have changed and have a text saying "Play Again" and now the user can make the choice to play again if wanted.
 
 ![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252146972-0e1ddb8f-0907-4304-80a7-6d33a7df5469.png)
 
 #### - Footer section
 
 - The footer contains clickable social media links for the user to find the game on Facebook and Instagram.
-- The footer also contains the text "Share your results whit us on social media!" to invite the user to interact whit the game on different platforms.
+- The footer also contains the text "Share your results with us on social media!" to invite the user to interact with the game on different platforms.
 
 ![Screenshot of the footer with social media links](https://user-images.githubusercontent.com/129947589/252145988-2b72ba82-3d15-411d-8e0d-7be45dd6210a.png)
 
@@ -50,7 +50,7 @@ The website contains a header and a footer. The footer contains icons whit links
 
 ## Testing
 
-- I tested this website in different browsers: Safari, Crome and Firefox and it works as expected.
+- I tested this website on different browsers such as: Safari, Crome and Firefox and it works as expected.
 
 - I confirmed that this website looks good on different screen sizes using the devtools device toolbar.
 
@@ -62,17 +62,17 @@ The website contains a header and a footer. The footer contains icons whit links
 
 ### Bugs
 
-- One bug that I have discoverd when working on this project is that the favicon.ico did not work after my deployment of this website. But then the day after the deployment it worked for some reason whitout me doing anything. But I did chose to change the link anyway and then it gave me a error message from the W3C validator and I changed it one last time and now it works fine. 
-- One other problem that I discoverd is that codeanywhere gives me this problem message in my css file.
+- One bug that I have discovered when working on this project is that the favicon.ico did not work after my deployment of this website. But then the day after the deployment it worked for some reason without me doing anything. But I did choose to change the link anyway and then it gave me an error message from the W3C validator and I changed it one last time and now it works fine. 
+- One other problem that I discovered is that codeanywhere gives me this problem message in my css file.
   ![Screenshot of the problem message in codeanywhere](https://user-images.githubusercontent.com/129947589/252320956-c30b8393-6bf5-435f-a4a0-dc3f0898af77.png)
 
 ### Validator Testing
 
 ##### - HTML
 
-- One error that were found first when passing trouhgt the validator was that the favicon link were broken.
+- One error that was found first when passing through the validator was that the favicon link was broken.
 - After fixing that and changing the format of the favicon link by downloading the favicon and then dropping it directly in the direcory, and coping and adding a HTML snippet inside the head tag. 
-- Afetr this no errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrida010.github.io%2Fsweden-quiz%2F).
+- After this no errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrida010.github.io%2Fsweden-quiz%2F).
 
 ##### - CSS
 
@@ -80,7 +80,7 @@ The website contains a header and a footer. The footer contains icons whit links
 
 ##### - JAVASCRIPT
 
-- No errors were found when passing through the official [Jshint validator](https://jshint.com/), however I did got some warnings.
+- No errors were found when passing through the official [Jshint validator](https://jshint.com/), however I did get some warnings.
   - The following metrics were returned:
   - There are 9 functions in this file.
   - Function with the largest signature take 1 arguments, while the median is 0.
@@ -105,15 +105,15 @@ The live link can be found here - [Sweden Quiz](https://frida010.github.io/swede
 
 ### Content
 
-- All the colors on this gamepage is taken from the swedish flag and identifyed by the [HTML color codes](https://html-color-codes.info/colors-from-image/).
-- In the proccess of making this webpage I have used [Code Institutes](https://codeinstitute.net/) videos and course material as help whit how to write some of the code and to remind me how the code works.
+- All the colors on this gamepage is taken from the swedish flag and was identified by the [HTML color codes](https://html-color-codes.info/colors-from-image/).
+- In the process of making this webpage I have used [Code Institutes](https://codeinstitute.net/) videos and course material as help with how to write some of the code and to remind me how the code works.
 - I used [W3Schools](https://www.w3schools.com/jsref/jsref_foreach.asp) and their JavaScript Array forEach() lesson as help on that part of the code.
 - Used [W3Schools](https://www.w3schools.com/js/js_if_else.asp) and their JavaScript if, else, and else if lesson to remind me of how to write that code.
 - Reminder of how to make JavaScript Array forEach() I looked on [W3Schools](https://www.w3schools.com/jsref/jsref_foreach.asp).
-- I used [W3Schools](https://www.w3schools.com/js/js_functions.asp) to help me whit JavaScript Functions.
-- I used [Simple Steps Code](https://simplestepscode.com/javascript-quiz-tutorial/) as inspiration whit how to make a quiz game.
-- I also used [Geeks for geeks](https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/) to help me whit the javascript in this project.
-- In the proccess of making this game I used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:509fe98a,vid:p-2G-7vLuV4) as help.
+- I used [W3Schools](https://www.w3schools.com/js/js_functions.asp) to help me with JavaScript Functions.
+- I used [Simple Steps Code](https://simplestepscode.com/javascript-quiz-tutorial/) as inspiration with how to make a quiz game.
+- I also used [Geeks for geeks](https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/) to help me with the javascript in this project.
+- In the process of making this game I used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:509fe98a,vid:p-2G-7vLuV4) as help.
 - I also used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:370e1017,vid:riDzcEQbX6k) as help with the javascript code writing.
 - This [Youtube video](https://www.google.com/search?tbm=vid&sxsrf=AB5stBjTtUIe6RI35kW0u5fJm4xOxrAa2w:1688912106572&q=how+to+make+a+quiz+in+javascript&sa=X&sqi=2&ved=2ahUKEwi_5Kzx54GAAxXzEBAIHU1JDuEQ8ccDegQIDBAH&biw=1920&bih=963&dpr=1#fpstate=ive&vld=cid:d0491b53,vid:PBcqGxrr9g8) was used as help when making this quiz game.
 
