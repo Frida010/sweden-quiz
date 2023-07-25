@@ -23,7 +23,7 @@ const questions = [
     {
         question: "What is the currency of Sweden?",
         answers: [
-            { text: "Euro", correct: false }, 
+            { text: "Euro", correct: false },
             { text: "Swedish Pesos (SEP)", correct: false },
             { text: "Swedish kronor (SEK)", correct: true },
             { text: "Swedish Dollar (SED)", correct: false },
@@ -61,24 +61,24 @@ const questions = [
 
 // Variables for game area
 
-const questionElement = document.getElementById('question');
-const answerButtons = document.getElementById('answer-buttons');
-const nextButton = document.getElementById('next-btn');
-
-
 let currentQuestionIndex = 0;
 let score = 0;
 
-// Resets the current question index
+const questionElement = document.getElementById("question");
+const answerButtons = document.getElementById("answer-buttons");
+const nextButton = document.getElementById("next-btn");
+
+
+// Resets current question index
 
 function startQuiz() {
     currentQuestionIndex = 0;
     score = 0;
-    nextButton.innerHTML = 'Next';
+    nextButton.innerHTML = "Next";
     showQuestion();
 }
 
-// Dispalys question and answers inside the buttons. 
+// Reset answers inside the buttons 
 
 function showQuestion() {
     resetState();
@@ -86,6 +86,8 @@ function showQuestion() {
     let questionNo = currentQuestionIndex + 1;
     questionElement.innerHTML = questionNo + ". " + currentQuestion.question;
 
+
+    // Next button appears after selected answer
 
     currentQuestion.answers.forEach(answer => {
         const button = document.createElement("button");
@@ -98,6 +100,7 @@ function showQuestion() {
         button.addEventListener("click", selectAnswer);
     });
 }
+
 
 
 function resetState() {
@@ -127,7 +130,7 @@ function selectAnswer(e) {
     nextButton.style.display = "block";
 }
 
-// Next-button function
+// next button function
 
 function handleNextButton() {
     currentQuestionIndex++;
