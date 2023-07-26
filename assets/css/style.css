@@ -46,11 +46,13 @@ body {
     color: #000;
     border-bottom: 1px solid #000;
     padding-bottom: 30px;
+    text-align: center;
 }
 
 .quiz h2 {
     font-size: 18px;
     color: #000;
+    text-align: center;
 }
 
 #question {
@@ -68,7 +70,7 @@ body {
     border: 1.8px solid #006aa8;
     padding: 10px;
     margin: 10px 0;
-    text-align: left;
+    text-align: center;
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.5s;
