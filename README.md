@@ -115,7 +115,9 @@ The live link can be found here - [Sweden Quiz](https://frida010.github.io/swede
 - I also used [Geeks for geeks](https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/) to help me with the javascript in this project.
 - In the process of making this game I used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:509fe98a,vid:p-2G-7vLuV4) as help.
 - I also used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:370e1017,vid:riDzcEQbX6k) as help with the javascript code writing.
-- This [Youtube video](https://www.google.com/search?tbm=vid&sxsrf=AB5stBjTtUIe6RI35kW0u5fJm4xOxrAa2w:1688912106572&q=how+to+make+a+quiz+in+javascript&sa=X&sqi=2&ved=2ahUKEwi_5Kzx54GAAxXzEBAIHU1JDuEQ8ccDegQIDBAH&biw=1920&bih=963&dpr=1#fpstate=ive&vld=cid:d0491b53,vid:PBcqGxrr9g8) was used as help when making this quiz game.
+- This [Youtube video](https://www.youtube.com/watch?v=-cX5jnQgqSM&ab_channel=GeekProbin) was used as help when making this quiz game.
+- And this [Youtube video](https://www.youtube.com/watch?v=pQr4O1OITJo&t=146s&ab_channel=CodingNepal) was used to help me when making this quiz game.
+- I used this [Youtube video](https://www.youtube.com/watch?v=MxrGPP4F8Sc&ab_channel=Keepcoding) when making this quiz game as help.
 - In the process of making this quiz game I also used the [Python Tutor code visualiser](https://pythontutor.com/javascript.html#mode=edit).
 
 ### Media
