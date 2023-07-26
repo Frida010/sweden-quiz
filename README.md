@@ -6,7 +6,7 @@ The Sweden Quiz game is targeted towards adults and children as a simple way to 
 
 The website contains a header and a footer. The footer contains icons with links to social media.
 
-![Screenshot of the website on diffrent screen sizes](https://user-images.githubusercontent.com/129947589/252144648-386179a1-d4a8-4119-ba60-9e7c219d58f9.png)
+![Screenshot of the website on diffrent screen sizes](https://user-images.githubusercontent.com/129947589/256338850-4a7f9080-bcc3-456e-9bd5-a049fd3e7491.png)
 
 ## Features
 
@@ -16,7 +16,7 @@ The website contains a header and a footer. The footer contains icons with links
 - The header creates a nice contrast on the game's website and creates a nice framing.
 - The font has a playful look and fits the character of the website well.
 
-![Screenshot of the header](https://user-images.githubusercontent.com/129947589/252145967-07884fe6-553e-4868-93bb-86e9cd70cbd6.png)
+![Screenshot of the header](https://user-images.githubusercontent.com/129947589/256337714-5afc0f22-f100-4eef-ac49-90992a4ab5f6.png)
 
 #### - The Quiz
 
@@ -24,25 +24,25 @@ The website contains a header and a footer. The footer contains icons with links
 - The quiz area has one question and four options for the user to choose from.
 - The buttons have a hover effect that lights up the button the mouse hovers over.
 
-![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252147500-23809c80-7384-4f79-a490-3ee7ea6d7cde.png)
-![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252147717-904200ea-3517-45c3-93dc-6ebc2060b23d.png)
+![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/256340795-7cab7851-06a3-4a0f-8baa-555e24176732.png)
+![Screenshot of the quiz area with hower effect](https://user-images.githubusercontent.com/129947589/256340841-1e0158ac-10fc-4e9a-9bc9-824b0e1dc544.png)
 
 - When the user has made a decision the button with the right answer will light up in a green color and the wrong answer in a red color (if the user picked the wrong answer).
 - When a choice is made, a button with the text "Next" will appear for the user to click on and get to the next question.
 
-![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252146966-0c20ef5a-54fa-47c4-83a7-d59f91841612.png)
+![Screenshot of the quiz area whit wrong answer selected](https://user-images.githubusercontent.com/129947589/256340869-d12f194c-de5b-4c49-afca-3d74c40ba804.png)
 
 - When the quiz is over and all the questions are answered, the user will get a message saying "You scored ... out of 6!"
 - On this last page the button will also have changed and have a text saying "Play Again" and now the user can make the choice to play again if wanted.
 
-![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/252146972-0e1ddb8f-0907-4304-80a7-6d33a7df5469.png)
+![Screenshot of the score board in the end of the game](https://user-images.githubusercontent.com/129947589/256337867-32abf0b2-3b28-4a44-9e62-1ae46ebb4afa.png)
 
-#### - Footer section
+#### - Footer
 
 - The footer contains clickable social media links for the user to find the game on Facebook and Instagram.
 - The footer also contains the text "Share your results with us on social media!" to invite the user to interact with the game on different platforms.
 
-![Screenshot of the footer with social media links](https://user-images.githubusercontent.com/129947589/252145988-2b72ba82-3d15-411d-8e0d-7be45dd6210a.png)
+![Screenshot of the footer with social media links](https://user-images.githubusercontent.com/129947589/256343939-f97eaa3c-43d8-42b1-9b67-bcb6bfe49046.png)
 
 ### Features left to implement
 
@@ -58,13 +58,16 @@ The website contains a header and a footer. The footer contains icons with links
 
 - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
 
-![Screenshot of the lighthouse](https://user-images.githubusercontent.com/129947589/252158871-99c3b03f-dcbe-432f-b940-87e3880b25ee.png)
+![Screenshot of the lighthouse](https://user-images.githubusercontent.com/129947589/256337680-ce8c1053-a547-4d31-98cf-67def10ef31f.png)
 
 ### Bugs
 
-- One bug that I have discovered when working on this project is that the favicon.ico did not work after my deployment of this website. But then the day after the deployment it worked for some reason without me doing anything. But I did choose to change the link anyway and then it gave me an error message from the W3C validator and I changed it one last time and now it works fine.
+- One bug that I have discovered when working on this project is that the favicon.ico did not work at first, but that is fixed now and works as it should. 
+
+![Screenshot of the favicon](https://user-images.githubusercontent.com/129947589/256337887-d4f01cb0-63b8-4106-aa98-a9458b840d53.png)
 - One other problem that I discovered is that codeanywhere gives me this problem message in my css file.
-  ![Screenshot of the problem message in codeanywhere](https://user-images.githubusercontent.com/129947589/252320956-c30b8393-6bf5-435f-a4a0-dc3f0898af77.png)
+
+![Screenshot of the problem message in codeanywhere](https://user-images.githubusercontent.com/129947589/252320956-c30b8393-6bf5-435f-a4a0-dc3f0898af77.png)
 
 ### Validator Testing
 
