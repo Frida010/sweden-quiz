@@ -2,7 +2,7 @@
 
 The Sweden Quiz is a game were you can play a quiz and learn more about Sweden. The quiz has six questions in total and has four answer options per question. The questions are fun and why not test your knowledge against friends? At the end of the game the user will get a score of how many points the person got in total and a choice to play again.
 
-The Sweden Quiz game is targeted towards adults and children as a simple way to learn some fun facts about the land in the far north. 
+The Sweden Quiz game is targeted towards adults and children as a simple way to learn some fun facts about the land in the far north.
 
 The website contains a header and a footer. The footer contains icons with links to social media.
 
@@ -62,7 +62,7 @@ The website contains a header and a footer. The footer contains icons with links
 
 ### Bugs
 
-- One bug that I have discovered when working on this project is that the favicon.ico did not work after my deployment of this website. But then the day after the deployment it worked for some reason without me doing anything. But I did choose to change the link anyway and then it gave me an error message from the W3C validator and I changed it one last time and now it works fine. 
+- One bug that I have discovered when working on this project is that the favicon.ico did not work after my deployment of this website. But then the day after the deployment it worked for some reason without me doing anything. But I did choose to change the link anyway and then it gave me an error message from the W3C validator and I changed it one last time and now it works fine.
 - One other problem that I discovered is that codeanywhere gives me this problem message in my css file.
   ![Screenshot of the problem message in codeanywhere](https://user-images.githubusercontent.com/129947589/252320956-c30b8393-6bf5-435f-a4a0-dc3f0898af77.png)
 
@@ -71,7 +71,7 @@ The website contains a header and a footer. The footer contains icons with links
 ##### - HTML
 
 - One error that was found first when passing through the validator was that the favicon link was broken.
-- After fixing that and changing the format of the favicon link by downloading the favicon and then dropping it directly in the direcory, and coping and adding a HTML snippet inside the head tag. 
+- After fixing that and changing the format of the favicon link by downloading the favicon and then dropping it directly in the direcory, and coping and adding a HTML snippet inside the head tag.
 - After this no errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrida010.github.io%2Fsweden-quiz%2F).
 
 ##### - CSS
@@ -116,6 +116,7 @@ The live link can be found here - [Sweden Quiz](https://frida010.github.io/swede
 - In the process of making this game I used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:509fe98a,vid:p-2G-7vLuV4) as help.
 - I also used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:370e1017,vid:riDzcEQbX6k) as help with the javascript code writing.
 - This [Youtube video](https://www.google.com/search?tbm=vid&sxsrf=AB5stBjTtUIe6RI35kW0u5fJm4xOxrAa2w:1688912106572&q=how+to+make+a+quiz+in+javascript&sa=X&sqi=2&ved=2ahUKEwi_5Kzx54GAAxXzEBAIHU1JDuEQ8ccDegQIDBAH&biw=1920&bih=963&dpr=1#fpstate=ive&vld=cid:d0491b53,vid:PBcqGxrr9g8) was used as help when making this quiz game.
+- In the process of making this quiz game I also used the [Python Tutor code visualiser](https://pythontutor.com/javascript.html#mode=edit).
 
 ### Media
 

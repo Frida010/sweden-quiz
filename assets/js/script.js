@@ -69,7 +69,7 @@ const answerButtons = document.getElementById("answer-buttons");
 const nextButton = document.getElementById("next-btn");
 
 
-// Resets current question index
+// Start quiz function
 
 function startQuiz() {
     currentQuestionIndex = 0;
@@ -85,9 +85,6 @@ function showQuestion() {
     let currentQuestion = questions[currentQuestionIndex];
     let questionNo = currentQuestionIndex + 1;
     questionElement.innerHTML = questionNo + ". " + currentQuestion.question;
-
-
-    // Next button appears after selected answer
 
     currentQuestion.answers.forEach(answer => {
         const button = document.createElement("button");
