@@ -62,7 +62,7 @@ The website contains a header and a footer. The footer contains icons with links
 
 ### Bugs
 
-- One bug that I have discovered when working on this project is that the favicon did not work at first, but that is fixed now and works as it should. More about that in the validator testing section. 
+- One bug that I have discovered when working on this project is that the favicon did not work at first, but that is fixed now and works as it should. More about that in the validator testing section.
 
 ![Screenshot of the favicon](https://user-images.githubusercontent.com/129947589/256337887-d4f01cb0-63b8-4106-aa98-a9458b840d53.png)
 
@@ -122,6 +122,8 @@ The live link can be found here - [Sweden Quiz](https://frida010.github.io/swede
 - This [Youtube video](https://www.youtube.com/watch?v=-cX5jnQgqSM&ab_channel=GeekProbin) was used as help when making this quiz game.
 - And this [Youtube video](https://www.youtube.com/watch?v=pQr4O1OITJo&t=146s&ab_channel=CodingNepal) was used to help me when making this quiz game.
 - I used this [Youtube video](https://www.youtube.com/watch?v=MxrGPP4F8Sc&ab_channel=Keepcoding) when making this quiz game as help.
+- In the process of making this project I watched this [Youtube video](https://www.youtube.com/watch?v=PBcqGxrr9g8&ab_channel=GreatStack) to inspire me.
+- This [Youtube video](https://www.youtube.com/watch?v=xZXW5SnCiWI&ab_channel=AliAslan) was used for insiration to maybe in the future make a timer function.
 - In the process of making this quiz game I also used the [Python Tutor code visualiser](https://pythontutor.com/javascript.html#mode=edit).
 
 ### Media
