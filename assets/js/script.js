@@ -14,10 +14,10 @@ const questions = [
     {
         question: "How much of Sweden's surface is covered by trees?",
         answers: [
+            { text: "0/3", correct: false },
             { text: "1/3", correct: false },
-            { text: "2/7", correct: false },
             { text: "2/3", correct: true },
-            { text: "4/8", correct: false },
+            { text: "3/3", correct: false },
         ]
     },
     {
@@ -68,7 +68,6 @@ const questionElement = document.getElementById("question");
 const answerButtons = document.getElementById("answer-buttons");
 const nextButton = document.getElementById("next-btn");
 
-
 // Start quiz function
 
 function startQuiz() {
@@ -98,8 +97,6 @@ function showQuestion() {
     });
 }
 
-
-
 function resetState() {
     nextButton.style.display = "none";
     while (answerButtons.firstChild) {
@@ -107,7 +104,7 @@ function resetState() {
     }
 }
 
-// Checking for the right and wrong answers.
+// Checking for the right and wrong answers
 
 function selectAnswer(e) {
     const selectedBtn = e.target;
@@ -127,7 +124,7 @@ function selectAnswer(e) {
     nextButton.style.display = "block";
 }
 
-// next button function
+// Next button function
 
 function handleNextButton() {
     currentQuestionIndex++;

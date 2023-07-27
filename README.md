@@ -1,6 +1,6 @@
 # Sweden Quiz
 
-The Sweden Quiz is a game were you can play a quiz and learn more about Sweden. The quiz has six questions in total and has four answer options per question. The questions are fun and why not test your knowledge against friends? At the end of the game the user will get a score of how many points the person got in total and a choice to play again.
+The Sweden Quiz is a game were you can play a quiz and learn more about Sweden. The quiz has six questions in total and has four answer options per question. The questions are fun, and why not test your knowledge against friends? At the end of the game the user will get a score of how many points the person got in total and a choice to play again.
 
 The Sweden Quiz game is targeted towards adults and children as a simple way to learn some fun facts about the land in the far north.
 
@@ -62,9 +62,10 @@ The website contains a header and a footer. The footer contains icons with links
 
 ### Bugs
 
-- One bug that I have discovered when working on this project is that the favicon.ico did not work at first, but that is fixed now and works as it should. 
+- One bug that I have discovered when working on this project is that the favicon did not work at first, but that is fixed now and works as it should. More about that in the validator testing section. 
 
 ![Screenshot of the favicon](https://user-images.githubusercontent.com/129947589/256337887-d4f01cb0-63b8-4106-aa98-a9458b840d53.png)
+
 - One other problem that I discovered is that codeanywhere gives me this problem message in my css file.
 
 ![Screenshot of the problem message in codeanywhere](https://user-images.githubusercontent.com/129947589/252320956-c30b8393-6bf5-435f-a4a0-dc3f0898af77.png)
