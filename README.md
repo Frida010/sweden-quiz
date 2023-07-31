@@ -1,10 +1,10 @@
 # Sweden Quiz
 
-The Sweden Quiz is a game were you can play a quiz and learn more about Sweden. The quiz has six questions in total and has four answer options per question. The questions are fun, and why not test your knowledge against friends? At the end of the game the user will get a score of how many points the person got in total and a choice to play again.
+The Sweden Quiz is a game were you can play a quiz game and learn more about Sweden. The quiz has six questions in total and has four answer options per question. The questions are fun, and why not test your knowledge against friends? At the end of the game the user will get a score of how many points the person got in total and a choice to play again if wanted.
 
-The Sweden Quiz game is targeted towards adults and children as a simple way to learn some fun facts about the land in the far north.
+The Sweden Quiz game is targeted towards adults and children as a simple way to learn some fun facts about the country in the far north.
 
-The website contains a header and a footer. The footer contains icons with links to social media.
+The website contains a header and a footer. The footer contains icons with links to social media and invites the user to interact.
 
 ![Screenshot of the website on diffrent screen sizes](https://user-images.githubusercontent.com/129947589/256338850-4a7f9080-bcc3-456e-9bd5-a049fd3e7491.png)
 
@@ -12,7 +12,7 @@ The website contains a header and a footer. The footer contains icons with links
 
 #### - Header
 
-- Featured at the top at the page is the header. The header does not have any features it does only displays the name which makes it more apparant for the user what game they are playing.
+- Featured at the top at the page is the header. The header does not have any features it does only display the name, which makes it more apparant for the user what game they are playing.
 - The header creates a nice contrast on the game's website and creates a nice framing.
 - The font has a playful look and fits the character of the website well.
 
@@ -28,14 +28,14 @@ The website contains a header and a footer. The footer contains icons with links
 ![Screenshot of the quiz area with hower effect](https://user-images.githubusercontent.com/129947589/256340841-1e0158ac-10fc-4e9a-9bc9-824b0e1dc544.png)
 
 - When the user has made a decision the button with the right answer will light up in a green color and the wrong answer in a red color (if the user picked the wrong answer).
-- When a choice is made, a button with the text "Next" will appear for the user to click on and get to the next question.
+- When a choice is made, a button with the text "Next" will appear for the user to click on and continue to the next question.
 
 ![Screenshot of the quiz area whit wrong answer selected](https://user-images.githubusercontent.com/129947589/256340869-d12f194c-de5b-4c49-afca-3d74c40ba804.png)
 
 - When the quiz is over and all the questions are answered, the user will get a message saying "You scored ... out of 6!"
 - On this last page the button will also have changed and have a text saying "Play Again" and now the user can make the choice to play again if wanted.
 
-![Screenshot of the score board in the end of the game](https://user-images.githubusercontent.com/129947589/256337867-32abf0b2-3b28-4a44-9e62-1ae46ebb4afa.png)
+![Screenshot of the score board at the end of the game](https://user-images.githubusercontent.com/129947589/256337867-32abf0b2-3b28-4a44-9e62-1ae46ebb4afa.png)
 
 #### - Footer
 
@@ -74,8 +74,8 @@ The website contains a header and a footer. The footer contains icons with links
 
 ##### - HTML
 
-- One error that was found first when passing through the validator was that the favicon link was broken.
-- After fixing that and changing the format of the favicon link by downloading the favicon and then dropping it directly in the direcory, and coping and adding a HTML snippet inside the head tag.
+- One error that was found first when passing through the validator was that the favicon-link was broken and did not work properly.
+- After fixing that and changing the format of the favicon link by downloading the favicon and then dropping it directly in the explorer, and coping and adding a HTML snippet inside the head tag.
 - After this no errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrida010.github.io%2Fsweden-quiz%2F).
 
 ##### - CSS
@@ -110,20 +110,19 @@ The live link can be found here - [Sweden Quiz](https://frida010.github.io/swede
 ### Content
 
 - All the colors on this gamepage is taken from the swedish flag and was identified by the [HTML color codes](https://html-color-codes.info/colors-from-image/).
-- In the process of making this webpage I have used [Code Institutes](https://codeinstitute.net/) videos and course material as help with how to write some of the code and to remind me how the code works.
+- In the process of making this webpage I have used [Code Institutes](https://codeinstitute.net/) videos and course material as help with how to write some of the code and to remind me how the code works both css and javascript.
 - I used [W3Schools](https://www.w3schools.com/jsref/jsref_foreach.asp) and their JavaScript Array forEach() lesson as help on that part of the code.
 - Used [W3Schools](https://www.w3schools.com/js/js_if_else.asp) and their JavaScript if, else, and else if lesson to remind me of how to write that code.
 - Reminder of how to make JavaScript Array forEach() I looked on [W3Schools](https://www.w3schools.com/jsref/jsref_foreach.asp).
 - I used [W3Schools](https://www.w3schools.com/js/js_functions.asp) to help me with JavaScript Functions.
 - I used [Simple Steps Code](https://simplestepscode.com/javascript-quiz-tutorial/) as inspiration with how to make a quiz game.
 - I also used [Geeks for geeks](https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/) to help me with the javascript in this project.
-- In the process of making this game I used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:509fe98a,vid:p-2G-7vLuV4) as help.
-- I also used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:370e1017,vid:riDzcEQbX6k) as help with the javascript code writing.
-- This [Youtube video](https://www.youtube.com/watch?v=-cX5jnQgqSM&ab_channel=GeekProbin) was used as help when making this quiz game.
-- And this [Youtube video](https://www.youtube.com/watch?v=pQr4O1OITJo&t=146s&ab_channel=CodingNepal) was used to help me when making this quiz game.
-- I used this [Youtube video](https://www.youtube.com/watch?v=MxrGPP4F8Sc&ab_channel=Keepcoding) when making this quiz game as help.
-- In the process of making this project I watched this [Youtube video](https://www.youtube.com/watch?v=PBcqGxrr9g8&ab_channel=GreatStack) to inspire me.
-- This [Youtube video](https://www.youtube.com/watch?v=xZXW5SnCiWI&ab_channel=AliAslan) was used for insiration to maybe in the future make a timer function.
+- In the process of making this game I used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:509fe98a,vid:p-2G-7vLuV4) from Coding artist as help.
+- I also used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:370e1017,vid:riDzcEQbX6k) from Web Dev Simplified as help with the javascript code writing.
+- This [Youtube video](https://www.youtube.com/watch?v=-cX5jnQgqSM&ab_channel=GeekProbin) from GeekProbin was used as help when making this quiz game.
+- And this [Youtube video](https://www.youtube.com/watch?v=pQr4O1OITJo&t=146s&ab_channel=CodingNepal) from CodingNepal was used to help me when making this quiz game.
+- I used this [Youtube video](https://www.youtube.com/watch?v=MxrGPP4F8Sc&ab_channel=Keepcoding) from Keep coding when making this quiz game as help.
+- This [Youtube video](https://www.youtube.com/watch?v=xZXW5SnCiWI&ab_channel=AliAslan) from Ali Aslan was used for insiration to maybe in the future make a timer function.
 - In the process of making this quiz game I also used the [Python Tutor code visualiser](https://pythontutor.com/javascript.html#mode=edit).
 
 ### Media
